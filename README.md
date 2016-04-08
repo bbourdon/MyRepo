@@ -1,6 +1,2 @@
 # myrepo
-<<<<<<< HEAD
-hello 3
-=======
-hello 2
->>>>>>> refs/remotes/origin/master
+hello 4
